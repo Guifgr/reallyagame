@@ -5,7 +5,7 @@ char nome[61],confirma;
 int peso,altura,forca,velocidade,acao,vida,maxVida,mana,maxMana,check;
 
 void intro();
-
+deixe
 void intro(){
   printf("\n\n\n\n\n\n\n\nEsse jogo nao tem a minima obrigacao de ser bom e nem facil é apenas uma ideia feita por guilherme rocha em um devaneio sobre o que lembrava de c que aprendeu na UTFPR\n\n");
   }
